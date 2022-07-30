@@ -1,0 +1,3 @@
+Modifying the Dictionary (dictionary.txt file)
+	- You can add words or whole sentence for up to 23 characters.
+	- One sentence or word per one line.
