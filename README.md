@@ -7,7 +7,7 @@ It's a clone of the classic Hangman written in objective C++.
 
 
 ### Features
-- Support for custom dictionary
+- Support for a custom dictionary
 - Beautiful 1 bit graphics
 - Questionably advanced text printing algorithm
 
